@@ -1,4 +1,6 @@
-### Hello everyone, im Muhammad Reza Aditya👋
+### <h1>Hello everyone, im Muhammad Reza Aditya👋</h1>
+
+<p>I'm from Indonesia, I studied programming, I want to be a frontend web developer</p>
 
 <!--
 **rejakartans/rejakartans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
