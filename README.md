@@ -1,6 +1,10 @@
-### <h1>Hello everyone, im Muhammad Reza Aditya👋</h1>
+### <h1>Hello everyone, im Muhammad Reza Aditya😄</h1>
 
 I'm from Indonesia, I studied programming, I want to be a web developer
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" margin-left="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murezz&layout=compact&theme=radical" />
+</a>
 
 <!--
 **rejakartans/rejakartans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +17,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+-  Pronouns: ...
 - ⚡ Fun fact: ...
 -->
