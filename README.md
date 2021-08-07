@@ -1,8 +1,8 @@
 ### <h1>Hello everyone, im Muhammad Reza Aditya😄</h1>
 
 I'm from Indonesia, I studied programming, I want to be a web developer
-
-<h1 align="center"> Skills & Tools: </h1>
+<hr>
+<h5 align="center"> Skills & Tools: </h5>
 
 <p> 
  <a href="https://html.com/">
