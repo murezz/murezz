@@ -1,4 +1,4 @@
-### <h1 align="center">Hi, im Muhammad Reza Aditya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+### <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+everyone!;+My+name+is+Muhammad+Reza.;Welcome+to+my+profile!&center=true&size=27"></h1>
 
 <p align="center">I'm from Indonesia, I studied programming, I want to be a web developer</p>
 <hr>
